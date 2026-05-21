@@ -1,5 +1,7 @@
 .weatherornot .panel-status-menu-box {
     padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .weatherornot .system-status-icon {
@@ -8,4 +10,100 @@
 
 .weatherornot-spacer * {
     color: transparent !important;
+}
+
+.weather-popup-menu {
+    padding: 2px;
+    min-width: 0;
+}
+
+.weather-popup-menu .popup-menu-item {
+    padding: 0 2px;
+    margin: 0;
+    min-height: 0;
+    spacing: 0;
+}
+
+.weather-popup-menu {
+    spacing: 0;
+}
+
+.weather-stats-main-box {
+    padding: 10px 12px 8px 12px;
+    min-width: 362px;
+    max-width: 362px;
+}
+
+.weather-stats-row {
+    spacing: 10px;
+    margin-bottom: 6px;
+}
+
+.weather-stat-label {
+    width: 155px;
+    font-size: 1.05em;
+}
+
+.weather-refresh-button-large {
+    border-radius: 999px;
+    padding: 8px;
+}
+
+.weather-refresh-button-large:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.weather-refresh-icon-large {
+    icon-size: 20px;
+    margin: 0;
+}
+
+.weather-title-label {
+    font-weight: bold;
+    padding-left: 6px;
+    font-size: 1.0em;
+}
+
+.weather-section-title-item {
+    padding: 4px 0 0 0;
+    margin: 0;
+    min-height: 0;
+}
+
+.weather-section-title-item .weather-title-label {
+    padding-bottom: 0;
+}
+
+.weather-graph-item {
+    padding: 0;
+    margin: 0;
+    min-height: 0;
+}
+
+.weather-graph {
+    min-height: 180px;
+}
+
+.weather-hourly-graph {
+    min-height: 180px;
+}
+
+.weather-daily-graph {
+    min-width: 362px;
+    max-width: 362px;
+}
+
+.weather-hourly-scrollview {
+    min-width: 362px;
+    max-width: 362px;
+    min-height: 180px;
+}
+
+.weather-hourly-scrollview StScrollBar {
+    -st-hfade-offset: 0;
+    height: 0;
+}
+
+.weather-point-icon {
+    icon-size: 20px;
 }
