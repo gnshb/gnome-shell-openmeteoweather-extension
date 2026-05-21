@@ -9,7 +9,7 @@ A simple extension for GNOME Shell 45+ that adds an icon showing the current wea
 
 ______
 
-![screenshot](https://github.com/somepaulo/GNOME-Shell-extension-Weather-or-Not/assets/15643750/f936179b-3f69-4c77-b4a1-1b3cc6c3b133)
+![OpenMeteoWeather screenshot](sample.png)
 
 ## Installation
 [<img src="https://user-images.githubusercontent.com/15643750/212080370-77899e64-bae8-43f1-b67a-fc946785c4b3.png" height="100">](https://extensions.gnome.org/extension/8010/openmeteoweather/)
